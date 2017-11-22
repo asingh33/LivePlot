@@ -1,4 +1,6 @@
 # LivePlot
+https://zenodo.org/badge/latestdoi/89076485
+
 This is a python script to allow live plotting by reading the plotting data from a local file.
 
 Usage:

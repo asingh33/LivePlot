@@ -1,5 +1,5 @@
-# LivePlot
 [![DOI](https://zenodo.org/badge/89076485.svg)](https://zenodo.org/badge/latestdoi/89076485)
+# LivePlot
 
 This is a python script to allow live plotting by reading the plotting data from a local file.
 
